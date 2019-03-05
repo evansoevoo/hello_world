@@ -1,2 +1,5 @@
 # hello_world
-A new repository
+
+
+Hi folks,
+Evans here, I love web development and a bit of android app development on Java
